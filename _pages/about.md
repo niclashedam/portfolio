@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: niclashedam.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 4E10</p>
+    <p>Rued Langgaards Vej 7</p>
+    <p>DK-2300 København S</p>
+    <p>Denmark</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I'm Niclas and I'm currently a PhD Fellow at the IT University of Copenhagen. I'm all about exploring the intersection of security and data systems, and my goal is to figure out how to guarantee the availability, integrity, and confidentiality of modern data systems and computational storage.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've been working in the field for a bit, starting with my Bachelor's degree in Software Development in 2019 and then moving on to specialize in information security during my Master's degree in Computer Science in 2022. Before starting my PhD, I was a Research Assistant at ITU, where I got to work with some amazing researchers and gain a deeper understanding of the challenges and opportunities in the field.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Right now, I'm working on a project called Delilah, which is all about experimenting with eBPF-based offload on computational storage in large-scale data pipelines. The goal is to make data pipelines more efficient and scalable while still keeping them secure. I'm proud to say that I was the one who created the first publicly described computational storage device that runs eBPF.
+
+I'm really interested in cross-disciplinary research, and my key areas of focus include data systems, security, privacy, and computational storage. Thanks for stopping by!
