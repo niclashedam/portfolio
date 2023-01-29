@@ -2,96 +2,183 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Niclas Hedam
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd November 1995
     - name: Languages
-      value: English, German
+      value: English, Danish, Limited Swedish, Limited Norwegian
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: IT University of Copenhagen
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Exploration and experimentation with eBPF-based offload on computational storage in large-scale data pipelines.
+        - title: The PhD project is a collaboration between the IT University of Copenhagen and other institutions throughout Europe under the DAPHNE project.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - DAPHNE is a European project that aims to develop a new generation of data processing systems that can handle the massive amounts of data that are being generated in the modern world.
+        - title: Design and implementation of Delilah.
+          contents:
+            - Delilah is the world's first publicly described eBPF-based offload engine for computational storage.
+    - title: Master of Science, Computer Science, specialisation in Information Security
+      institution: IT University of Copenhagen
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+      - My Master's program in Computer Science with a specialization in Information Security offered a wealth of engaging and enriching experiences.
+      - Throughout my studies, I took part in various security-related courses, engaging in hands-on activities such as penetration testing of web services, evaluating the soundness of cryptographic protocols like ElGamal, cracking passwords on high-performance computers, and more. A project in this domain was also published in the ADMS '20 workshop.
+      - In my 2nd year of Master's studies, I pursued a PhD under the 4+4 program on a part-time basis while continuing my Master's education.
+    - title: Bachelor of Science, Software Development
+      institution: IT University of Copenhagen
+      year: 2019
+      description:
+      - My undergraduate education in software development was marked by numerous exciting and enriching experiences.
+      - The curriculum at the university encompassed a wide range of topics in software development, balancing instruction in business-oriented and technical aspects. Courses ranged from business and project management to hands-on exploration of operating system internals, assembly programming, and language and compiler design.
+      - My academic pursuits included participation in several challenging and diverse projects, such as constructing a map of Denmark from OpenStreetMap data and developing software to implement 3D imagery through raytracing.
+      - I successfully defended my thesis on Open-Channel SSDs under the guidance of Professor Philippe Bonnet, bringing my undergraduate degree in software development to a conclusion.
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Intern
+      institution: Samsung Semiconductor Denmark Research (SSDR), Copenhagen, Denmark
+      year: 2020 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I initiated a collaboative research effort between the IT University of Copenhagen and Samsung Research.
+        - During the internship I worked with a testing-framework called CIJoe, and added several reproducibility and cross-compatiblity features.
+    - title: Research Assistant
+      institution: IT University of Copenhagen, Copenhagen, Denmark
+      year: 2019 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - I assisted the research of the Open-Channel SSD technology with the Data-intensive Systems and Applications group at the Institute of Computer Science at the IT-University of Copenhagen. The position was in direct continuation of my bachelor's thesis "LSM-Tree on Open-Channel SSD".
+        - During this employmentent I attended and published a paper at the CIDR '20 conference.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Student Developer
+      institution: Siteimprove, Copenhagen, Denmark
+      year: 2018 - 2019
       description:
+        - I was assigned as maintainer and developer of Alfa, which is an open and standards-based accessibility conformance testing engine used for testing websites built using HTML, CSS, and JavaScript against accessibility standards such as the Web Content Accessibility Guidelines (WCAG).
+        - My responsibilities included the development of new features, as well as optimising and improving existing functionality.
+        - The work environment was an extended version of kanban, to ease the collaboration with contributors of the open source repository. We were borrowing some aspects of the agile framework "Scrum".
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Chief Executive Officer
+      institution: Frax.dk Development, Copenhagen, Denmark
+      year: 2012 - 2019
+      description:
+        - I developed and maintained software for small companies as a hobby. This turned into a small consultancy firm called Frax.dk Development.
+        - Frax.dk Development also offered a small hosting service with around 15 customers at its highest.
+        - Having a company at age 16 gave me important and meaningful experience with running a company, submission of VAT reports as well as taking executive decisions.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Chief Executive Officer 
+      institution: Pendler, Copenhagen, Denmark
+      year: 2017 - 2018
+      description:
+        - Pendler was a company working with early warning of Danish commuters.
+        - During the company's short lifetime it operated a platform notifying customers about changes to public transportation. 
+        - The platform typically reacted faster and notified affected travellers more quickly than the transportation company did.
+        - This project gave me valuable experience related to system architecture, quality control, system security as well as performance.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Lead Developer
+      institution: Pairy, Copenhagen, Denmark
+      year: 2016 - 2018
+      description:
+        - I was in charge of developing, maintaining and extending our infrastructure. The position included working with the architecture of the platform, including selecting the technologies to be used. 
+        - The technologies I worked with included Docker, Kubernetes, Apache, MySQL and Debian running multiple services written in PHP using the Laravel and Lumen frameworks.
+        - I was leading the development of the Pairy SaaS platform as well.
+        - Pairy makes it possible to synchronise orders, customers and products automatically from webshops to accounting programs / ERP-systems.
+
+    - title: Web Developer
+      institution: Pandi Web, Copenhagen, Denmark
+      year: 2016 - 2018
+      description:
+        - I worked as a web developer on several different projects. I primarily worked in website design, were I typically assisted with backend optimization and extensions.
+        - As of September 2016, I was permanently assigned to work at Pairy ApS.
+
+    - title: Software Developer
+      institution: Bello (formerly Newsio), Copenhagen, Denmark
+      year: 2016
+      description:
+        - I was hired as a full-time NodeJS backend developer. I was working on extending their core software, which included maintaining their micro-services and creating unit tests.
+
+    - title: Chief Technology Officer 
+      institution: OPLEVO (formerly SPONTAN), Copenhagen, Denmark
+      year: 2013 - 2016
+      description:
+        - I was Chief Technology Officer (CTO) and lead programmer of the OPLEVO software, which was a social booking platform.
+        - I was in charge of overseeing product development, and structuring further development, acting as a link between the developers and the management.
+
+    - title: Web Developer
+      institution: Pandi Web, Copenhagen, Denmark
+      year: 2015 - 2016
+      description:
+        - I worked as a web developer on several different projects.
+        - I primarily worked in website design, were I typically assisted with backend optimization and extensions.
+
+    - title: Junior Software Pilot
+      institution: Trifork, Aarhus, Denmark
+      year: 2015
+      description:
+        - I was developing software for customers of Trifork. I primarily developed in Objective-C.
+        - I worked on BestRoom - a beacon based iOS app for booking meeting-rooms on the fly.
+        - I had the responsibility of testing the range and usability of the beacons, as well as creating the first mobile-to-beacon distance calculations.
+
+    - title: Media Operator
+      institution: Arnsbo Media, Aarhus, Denmark 
+      year: 2012 - 2014
+      description:
+        - I was the producer of property showcase videos for the realtor chains home and EDC.
+        - I was using my competencies in communication to compose showcase-videos to visualise houses and apartments to customers.
+        - The job primarily consisted of writing the script for the professional speakers, cherry-picking images as well as choosing animations and effects.
+        - A video was about 2-3 minutes long and took 10-15 minutes to produce.
+
+    - title: Chat moderator
+      institution: Amino, Aarhus, Denmark
+      year: 2012 - 2014
+      description:
+        - I was observing the chat-room on the entrepreneur-service Amino.
+        - My job consisted of assuring that the entrepreneurs of Denmark had a secure environment to chat in real-time.
+        - The job required me to act as an example, assuring that everyone felt safe. I also had to mitigate unwanted situations rapidly.
+
+    - title: Application Expert
+      institution: Berlingske Media, Aarhus, Denmark
+      year: 2011 - 2013
+      description:
+        - I was hired to write technical articles and reviews for Berlingske's online section about apps.
+        - I wrote approximately two articles a month.
+        - The job was challenging and required knowledge about writing good and entertaining articles.
+
+    - title: Cashier
+      institution: KIWI Danmark, Hinnerup, Denmark
+      year: 2012
+      description:
+        - My responsibilities included operating the checkout desk and cleaning of the store.
+        - The job required adaptability as the hours could range from 6 AM to 22 PM.
+        - I was professional and service-minded as I worked directly with the supermarket's customers.
+
+    - title: Deliverer 
+      institution: FK Distribution A/S
+      year: 2011 - 2012
+      description:
+        - I was delivering advertisements and newspapers two times a week.
+        - This employment required a high level of responsibility and perseverance, as I had to perform in any weather consistently.
+        - It required physical strength as the weight of a single day of delivery could approach ¼ to ½ of a tonne.
+        - "Number of households on my route: 236"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data Systems
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Interested in offloading data processing to the storage layer.
+        - Interested in experimenting with novel data systems and architectures. 
+    - title: Information Security
       items:
-        - Description 1.
-        - Description 2.
+        - Interested in guaranteeing confidentiality, integrity and availability of data.
+        - Interested in privacy and the consequences of open source intelligence (OSINT).
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Investments, reading, writing, travelling, cooking, and learning new things.
