@@ -2,13 +2,20 @@
     {% for content in entry.contents %}
       <li class="list-group-item">
         <div class="row">
-          {% if content.year %}
-            <div class="col-xs-3 cl-sm-3 col-md-3 text-center">
-              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-                {{ content.year }}
-              </span>
-            </div>
-          {% endif %}
+          <div class="col-xs-3 cl-sm-3 col-md-3 text-center">
+            {% if content.year %}
+              <div>
+                <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  {{ content.year }}
+                </span>
+              </div>
+            {% endif %}
+            {% if content.img %}
+              <div>
+                <img src="{{ content.img }}" class="img-fluid mt-4" alt="{{ content.title }}">
+              </div>
+            {% endif %}
+          </div>
           <div class="col-xs-9 cl-sm-9 col-md-9 mt-2 mt-md-0">
             {% if content.title %}
             <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>

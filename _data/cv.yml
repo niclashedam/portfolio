@@ -14,6 +14,7 @@
     - title: PhD
       institution: IT University of Copenhagen
       year: 2024
+      img: /assets/img/cv/itu.jpg
       description:
         - Exploration and experimentation with eBPF-based offload on computational storage in large-scale data pipelines.
         - title: The PhD project is a collaboration between the IT University of Copenhagen and other institutions throughout Europe under the DAPHNE project.
@@ -25,6 +26,7 @@
     - title: Master of Science, Computer Science, specialisation in Information Security
       institution: IT University of Copenhagen
       year: 2022
+      img: /assets/img/cv/itu.jpg
       description:
       - My Master's program in Computer Science with a specialization in Information Security offered a wealth of engaging and enriching experiences.
       - Throughout my studies, I took part in various security-related courses, engaging in hands-on activities such as penetration testing of web services, evaluating the soundness of cryptographic protocols like ElGamal, cracking passwords on high-performance computers, and more. A project in this domain was also published in the ADMS '20 workshop.
@@ -32,6 +34,7 @@
     - title: Bachelor of Science, Software Development
       institution: IT University of Copenhagen
       year: 2019
+      img: /assets/img/cv/itu.jpg
       description:
       - My undergraduate education in software development was marked by numerous exciting and enriching experiences.
       - The curriculum at the university encompassed a wide range of topics in software development, balancing instruction in business-oriented and technical aspects. Courses ranged from business and project management to hands-on exploration of operating system internals, assembly programming, and language and compiler design.
@@ -45,6 +48,7 @@
     - title: Intern
       institution: Samsung Semiconductor Denmark Research (SSDR), Copenhagen, Denmark
       year: 2020 - 
+      img: /assets/img/cv/samsung.jpg
       description:
       - Started a joint research project between IT University of Copenhagen and Samsung Research.
       - During my internship, I enhanced the testing framework, CIJoe, with features for reproducibility and cross-compatibility.
@@ -52,6 +56,7 @@
     - title: Research Assistant
       institution: IT University of Copenhagen, Copenhagen, Denmark
       year: 2019 - 2020
+      img: /assets/img/cv/itu.jpg
       description:
       - Assisted in researching Open-Channel SSD technology with Data-intensive Systems and Applications at IT University of Copenhagen's Institute of Computer Science. The role followed my bachelor's thesis "LSM-Tree on Open-Channel SSD."
       - During my emplotment, I published a paper at the CIDR '20 conference.
@@ -59,6 +64,7 @@
     - title: Student Developer
       institution: Siteimprove, Copenhagen, Denmark
       year: 2018 - 2019
+      img: /assets/img/cv/siteimprove.jpg
       description:
       - Asigned as maintainer and developer of Alfa, an open, standards-based engine for testing website accessibility with HTML, CSS, and JavaScript against standards such as WCAG.
       - My duties included developing new features and optimizing existing ones.
@@ -83,6 +89,7 @@
     - title: Lead Developer
       institution: Pairy, Copenhagen, Denmark
       year: 2016 - 2018
+      img: /assets/img/cv/pairy.jpg
       description:
       - Responsible for developing, maintaining, and expanding infrastructure. Involved in platform architecture, including technology selection.
       - Worked with Docker, Kubernetes, Apache, MySQL, Debian, PHP, Laravel, and Lumen to run multiple services.
@@ -91,6 +98,7 @@
     - title: Web Developer
       institution: Pandi Web, Copenhagen, Denmark
       year: 2016 - 2018
+      img: /assets/img/cv/pandi.jpg
       description:
       - Worked as a web developer on various projects, specializing in website design and assisting with backend optimization and extensions.
       - Assigned exclusively to Pairy ApS starting in September 2016.
@@ -98,6 +106,7 @@
     - title: Software Developer
       institution: Bello (formerly Newsio), Copenhagen, Denmark
       year: 2016
+      img: /assets/img/cv/bello.jpg
       description:
       - Hired as a full-time NodeJS backend developer to extend the core software, maintain micro-services, and create unit tests.
 
@@ -111,12 +120,14 @@
     - title: Web Developer
       institution: Pandi Web, Copenhagen, Denmark
       year: 2015 - 2016
+      img: /assets/img/cv/pandi.jpg
       description:
       - Worked as a web developer on multiple projects, primarily focused on website design and helping with backend optimization and extensions.
 
     - title: Junior Software Pilot
       institution: Trifork, Aarhus, Denmark
       year: 2015
+      img: /assets/img/cv/trifork.jpg
       description:
       - Developed software for Trifork's clients, primarily using Objective-C.
       - Worked on BestRoom, an iOS app using beacons to book meeting rooms in real-time.
@@ -134,6 +145,7 @@
     - title: Chat moderator
       institution: Amino, Aarhus, Denmark
       year: 2012 - 2014
+      img: /assets/img/cv/amino.jpg
       description:
       - I monitored the Amino entrepreneur chat-room to ensure a safe environment for Danish entrepreneurs to communicate in real-time.
       - My duties included setting a positive example, ensuring all users felt secure and promptly resolving any disruptive incidents.
@@ -141,6 +153,7 @@
     - title: Application Expert
       institution: Berlingske Media, Aarhus, Denmark
       year: 2011 - 2013
+      img: /assets/img/cv/berlingske.jpg
       description:
       - I wrote technical articles and reviews on apps for Berlingske's online section.
       - I published approximately two pieces per month.
@@ -149,6 +162,7 @@
     - title: Cashier
       institution: KIWI Danmark, Hinnerup, Denmark
       year: 2012
+      img: /assets/img/cv/kiwi.jpg
       description:
       - My responsibilities included operating the checkout desk and cleaning of the store.
       - The job required adaptability as the hours could range from 6 AM to 22 PM.
@@ -158,6 +172,7 @@
     - title: Deliverer 
       institution: FK Distribution A/S
       year: 2011 - 2012
+      img: /assets/img/cv/fk.jpg
       description:
       - I was delivering advertisements and newspapers twice a week, requiring a high level of responsibility and perseverance to perform consistently, even in unfavorable weather conditions.
       - The job demanded physical strength as the daily delivery weight could reach up to 1/4 to 1/2 tonne.
