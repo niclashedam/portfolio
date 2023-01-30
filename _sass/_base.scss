@@ -478,7 +478,14 @@ footer.sticky-bottom {
 
   .card {
     img {
-      width: 100%;
+      width: 96px;
+      height: 96px;
+      
+      // vertically and horizontally center
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
   }
 
@@ -773,3 +780,22 @@ progress {
      display: block;
      height: inherit;
  }
+
+.project-page {
+  .card-img {
+    img {
+      width: 192px;
+      height: 192px;
+
+      border-radius: 1em;
+      
+      // vertically and horizontally center the image only on medium and large screens
+      @media (min-width: 768px) {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
+}
