@@ -3,7 +3,7 @@ layout: post
 title: "Computational Storage and eBPF: The Future of Storage"
 date: 2023-01-29
 description: What is Computational Storage, and how can eBPF re-invent the way we work with storage?
-tags: delilah, ebpf
+tags: delilah ebpf
 categories: delilah
 ---
 Computational storage is a new and innovative technology that combines storage and computing resources in a single device. It is designed to bring processing power closer to where data is stored, thereby reducing latency and improving the overall system performance. The demand for faster and more efficient data processing has never been higher, and computational storage is quickly emerging as a promising solution.
