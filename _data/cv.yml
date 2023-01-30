@@ -46,125 +46,123 @@
       institution: Samsung Semiconductor Denmark Research (SSDR), Copenhagen, Denmark
       year: 2020 - 
       description:
-        - I initiated a collaboative research effort between the IT University of Copenhagen and Samsung Research.
-        - During the internship I worked with a testing-framework called CIJoe, and added several reproducibility and cross-compatiblity features.
+      - Started a joint research project between IT University of Copenhagen and Samsung Research.
+      - During my internship, I enhanced the testing framework, CIJoe, with features for reproducibility and cross-compatibility.
+
     - title: Research Assistant
       institution: IT University of Copenhagen, Copenhagen, Denmark
       year: 2019 - 2020
       description:
-        - I assisted the research of the Open-Channel SSD technology with the Data-intensive Systems and Applications group at the Institute of Computer Science at the IT-University of Copenhagen. The position was in direct continuation of my bachelor's thesis "LSM-Tree on Open-Channel SSD".
-        - During this employmentent I attended and published a paper at the CIDR '20 conference.
+      - Assisted in researching Open-Channel SSD technology with Data-intensive Systems and Applications at IT University of Copenhagen's Institute of Computer Science. The role followed my bachelor's thesis "LSM-Tree on Open-Channel SSD."
+      - During my emplotment, I published a paper at the CIDR '20 conference.
 
     - title: Student Developer
       institution: Siteimprove, Copenhagen, Denmark
       year: 2018 - 2019
       description:
-        - I was assigned as maintainer and developer of Alfa, which is an open and standards-based accessibility conformance testing engine used for testing websites built using HTML, CSS, and JavaScript against accessibility standards such as the Web Content Accessibility Guidelines (WCAG).
-        - My responsibilities included the development of new features, as well as optimising and improving existing functionality.
-        - The work environment was an extended version of kanban, to ease the collaboration with contributors of the open source repository. We were borrowing some aspects of the agile framework "Scrum".
+      - Asigned as maintainer and developer of Alfa, an open, standards-based engine for testing website accessibility with HTML, CSS, and JavaScript against standards such as WCAG.
+      - My duties included developing new features and optimizing existing ones.
+      - Worked in an extended kanban environment for collaboration with open source contributors, incorporating some elements of Scrum.
 
     - title: Chief Executive Officer
       institution: Frax.dk Development, Copenhagen, Denmark
       year: 2012 - 2019
       description:
-        - I developed and maintained software for small companies as a hobby. This turned into a small consultancy firm called Frax.dk Development.
-        - Frax.dk Development also offered a small hosting service with around 15 customers at its highest.
-        - Having a company at age 16 gave me important and meaningful experience with running a company, submission of VAT reports as well as taking executive decisions.
+      - Started a small consultancy firm, Frax.dk Development, by developing and maintaining software for small companies as a hobby.
+      - Frax.dk Development offered hosting services to about 15 customers at its peak.
+      - At age 16, running the company gave me valuable experience in submitting VAT reports, making executive decisions, and managing a business.
 
     - title: Chief Executive Officer 
       institution: Pendler, Copenhagen, Denmark
       year: 2017 - 2018
       description:
-        - Pendler was a company working with early warning of Danish commuters.
-        - During the company's short lifetime it operated a platform notifying customers about changes to public transportation. 
-        - The platform typically reacted faster and notified affected travellers more quickly than the transportation company did.
-        - This project gave me valuable experience related to system architecture, quality control, system security as well as performance.
+      - Pendler was a company focused on early warnings for Danish commuters.
+      - Operated a platform to notify customers about public transportation changes, often faster and more efficiently than the transportation company.
+      - This project provided valuable experience in system architecture, quality control, security, and performance.
 
     - title: Lead Developer
       institution: Pairy, Copenhagen, Denmark
       year: 2016 - 2018
       description:
-        - I was in charge of developing, maintaining and extending our infrastructure. The position included working with the architecture of the platform, including selecting the technologies to be used. 
-        - The technologies I worked with included Docker, Kubernetes, Apache, MySQL and Debian running multiple services written in PHP using the Laravel and Lumen frameworks.
-        - I was leading the development of the Pairy SaaS platform as well.
-        - Pairy makes it possible to synchronise orders, customers and products automatically from webshops to accounting programs / ERP-systems.
+      - Responsible for developing, maintaining, and expanding infrastructure. Involved in platform architecture, including technology selection.
+      - Worked with Docker, Kubernetes, Apache, MySQL, Debian, PHP, Laravel, and Lumen to run multiple services.
+      - Led development of Pairy SaaS platform, which synchronizes orders, customers, and products between webshops and accounting/ERP systems.
 
     - title: Web Developer
       institution: Pandi Web, Copenhagen, Denmark
       year: 2016 - 2018
       description:
-        - I worked as a web developer on several different projects. I primarily worked in website design, were I typically assisted with backend optimization and extensions.
-        - As of September 2016, I was permanently assigned to work at Pairy ApS.
+      - Worked as a web developer on various projects, specializing in website design and assisting with backend optimization and extensions.
+      - Assigned exclusively to Pairy ApS starting in September 2016.
 
     - title: Software Developer
       institution: Bello (formerly Newsio), Copenhagen, Denmark
       year: 2016
       description:
-        - I was hired as a full-time NodeJS backend developer. I was working on extending their core software, which included maintaining their micro-services and creating unit tests.
+      - Hired as a full-time NodeJS backend developer to extend the core software, maintain micro-services, and create unit tests.
 
     - title: Chief Technology Officer 
       institution: OPLEVO (formerly SPONTAN), Copenhagen, Denmark
       year: 2013 - 2016
       description:
-        - I was Chief Technology Officer (CTO) and lead programmer of the OPLEVO software, which was a social booking platform.
-        - I was in charge of overseeing product development, and structuring further development, acting as a link between the developers and the management.
+      - Served as CTO and lead programmer of OPLEVO, a social booking platform.
+      - Responsible for overseeing product development and coordinating development as a liaison between developers and management.
 
     - title: Web Developer
       institution: Pandi Web, Copenhagen, Denmark
       year: 2015 - 2016
       description:
-        - I worked as a web developer on several different projects.
-        - I primarily worked in website design, were I typically assisted with backend optimization and extensions.
+      - Worked as a web developer on multiple projects, primarily focused on website design and helping with backend optimization and extensions.
 
     - title: Junior Software Pilot
       institution: Trifork, Aarhus, Denmark
       year: 2015
       description:
-        - I was developing software for customers of Trifork. I primarily developed in Objective-C.
-        - I worked on BestRoom - a beacon based iOS app for booking meeting-rooms on the fly.
-        - I had the responsibility of testing the range and usability of the beacons, as well as creating the first mobile-to-beacon distance calculations.
+      - Developed software for Trifork's clients, primarily using Objective-C.
+      - Worked on BestRoom, an iOS app using beacons to book meeting rooms in real-time.
+      - Had responsibility for testing beacon range and usability, and creating initial mobile-to-beacon distance calculations.
 
     - title: Media Operator
       institution: Arnsbo Media, Aarhus, Denmark 
       year: 2012 - 2014
       description:
-        - I was the producer of property showcase videos for the realtor chains home and EDC.
-        - I was using my competencies in communication to compose showcase-videos to visualise houses and apartments to customers.
-        - The job primarily consisted of writing the script for the professional speakers, cherry-picking images as well as choosing animations and effects.
-        - A video was about 2-3 minutes long and took 10-15 minutes to produce.
+      - Produced property showcase videos for realtor chains home and EDC.
+      - Utilized communication skills to create videos visualizing houses/apartments for customers.
+      - Job involved writing scripts, selecting images, animations, and effects.
+      - Each 2-3 minute video took 10-15 minutes to produce.
 
     - title: Chat moderator
       institution: Amino, Aarhus, Denmark
       year: 2012 - 2014
       description:
-        - I was observing the chat-room on the entrepreneur-service Amino.
-        - My job consisted of assuring that the entrepreneurs of Denmark had a secure environment to chat in real-time.
-        - The job required me to act as an example, assuring that everyone felt safe. I also had to mitigate unwanted situations rapidly.
+      - I monitored the Amino entrepreneur chat-room to ensure a safe environment for Danish entrepreneurs to communicate in real-time.
+      - My duties included setting a positive example, ensuring all users felt secure and promptly resolving any disruptive incidents.
 
     - title: Application Expert
       institution: Berlingske Media, Aarhus, Denmark
       year: 2011 - 2013
       description:
-        - I was hired to write technical articles and reviews for Berlingske's online section about apps.
-        - I wrote approximately two articles a month.
-        - The job was challenging and required knowledge about writing good and entertaining articles.
+      - I wrote technical articles and reviews on apps for Berlingske's online section.
+      - I published approximately two pieces per month.
+      - The role required strong writing skills and the ability to create engaging content.
 
     - title: Cashier
       institution: KIWI Danmark, Hinnerup, Denmark
       year: 2012
       description:
-        - My responsibilities included operating the checkout desk and cleaning of the store.
-        - The job required adaptability as the hours could range from 6 AM to 22 PM.
-        - I was professional and service-minded as I worked directly with the supermarket's customers.
+      - My responsibilities included operating the checkout desk and cleaning of the store.
+      - The job required adaptability as the hours could range from 6 AM to 22 PM.
+      - I was professional and service-minded as I worked directly with the supermarket's customers.
+      - This experience helped me in my academic career by honing my interpersonal and customer service skills, which are highly valued in many industries.
 
     - title: Deliverer 
       institution: FK Distribution A/S
       year: 2011 - 2012
       description:
-        - I was delivering advertisements and newspapers two times a week.
-        - This employment required a high level of responsibility and perseverance, as I had to perform in any weather consistently.
-        - It required physical strength as the weight of a single day of delivery could approach ¼ to ½ of a tonne.
-        - "Number of households on my route: 236"
+      - I was delivering advertisements and newspapers twice a week, requiring a high level of responsibility and perseverance to perform consistently, even in unfavorable weather conditions.
+      - The job demanded physical strength as the daily delivery weight could reach up to 1/4 to 1/2 tonne.
+      - I delivered to 236 households on my route.
+      - This job taught me to be efficient and complete tasks despite challenges, which has helped improve my academic career by instilling a strong work ethic.
 
 - title: Academic Interests
   type: nested_list
