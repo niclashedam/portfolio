@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 22nd November 1995
     - name: Languages
-      value: English, Danish, Limited Swedish, Limited Norwegian
+      value: English and Danish (Limited Swedish, Norwegian and French)
 
 - title: Education
   type: time_table
@@ -143,7 +143,7 @@
       - Each 2-3 minute video took 10-15 minutes to produce.
 
     - title: Chat moderator
-      institution: Amino, Aarhus, Denmark
+      institution: Amino
       year: 2012 - 2014
       img: /assets/img/cv/amino.jpg
       description:
@@ -151,7 +151,7 @@
       - My duties included setting a positive example, ensuring all users felt secure and promptly resolving any disruptive incidents.
 
     - title: Application Expert
-      institution: Berlingske Media, Aarhus, Denmark
+      institution: Berlingske Media
       year: 2011 - 2013
       img: /assets/img/cv/berlingske.jpg
       description:
@@ -160,7 +160,7 @@
       - The role required strong writing skills and the ability to create engaging content.
 
     - title: Cashier
-      institution: KIWI Danmark, Hinnerup, Denmark
+      institution: KIWI, Hinnerup, Denmark
       year: 2012
       img: /assets/img/cv/kiwi.jpg
       description:
@@ -170,7 +170,7 @@
       - This experience helped me in my academic career by honing my interpersonal and customer service skills, which are highly valued in many industries.
 
     - title: Deliverer 
-      institution: FK Distribution A/S
+      institution: FK Distribution, Hinnerup, Denmark
       year: 2011 - 2012
       img: /assets/img/cv/fk.jpg
       description:
