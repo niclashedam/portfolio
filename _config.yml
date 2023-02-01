@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Niclas
 last_name: Hedam
 email: nhed@itu.dk
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Niclas Hedam is a PhD student at IT University of Copenhagen. His research interests include the intersection between data systems and security. He is currently working on Delilah, a novel computational storage engine based on eBPF.
+description: Niclas Hedam is a PhD student at IT University of Copenhagen. His research interests include the intersection between data systems and security. He is currently working on Delilah, a novel computational storage engine based on eBPF.
 footer_text: # the text displayed in the footer
 keywords: niclas, hedam, niclas hedam, it university of copenhagen, it-universitetet i københavn, phd, forsker, delilah, daphne, ebpf, philippe bonnet
 
