@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computational Storage and eBPF: The Future of Storage"
+title: "Computational Storage and eBPF: The Future of Storage?"
 date: 2023-01-29
 description: What is Computational Storage, and how can eBPF re-invent the way we work with storage?
 tags: delilah ebpf
