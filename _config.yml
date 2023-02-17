@@ -207,7 +207,7 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets/**/*.*"
+      path: "assets/**/*.*, papers/*, talks/*"
     values:
       sitemap: false
 
