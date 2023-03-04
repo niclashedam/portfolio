@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: IT University of Copenhagen
-      year: 2024
+      year: 2020 - 2024
       img: /assets/img/cv/itu.jpg
       description:
         - Exploration and experimentation with eBPF-based offload on computational storage in large-scale data pipelines.
@@ -31,7 +31,7 @@
         - Experimentation with Delilah in the context of TU Dresden's research.
     - title: Master of Science, Computer Science, specialisation in Information Security
       institution: IT University of Copenhagen
-      year: 2022
+      year: 2019 - 2022
       img: /assets/img/cv/itu.jpg
       description:
       - My Master's program in Computer Science with a specialization in Information Security offered a wealth of engaging and enriching experiences.
@@ -39,7 +39,7 @@
       - In my 2nd year of Master's studies, I pursued a PhD under the 4+4 program on a part-time basis while continuing my Master's education.
     - title: Bachelor of Science, Software Development
       institution: IT University of Copenhagen
-      year: 2019
+      year: 2016 - 2019
       img: /assets/img/cv/itu.jpg
       description:
       - My undergraduate education in software development was marked by numerous exciting and enriching experiences.
@@ -53,7 +53,7 @@
   contents:
     - title: Intern
       institution: Samsung Semiconductor Denmark Research (SSDR), Copenhagen, Denmark
-      year: 2020 - 
+      year: 2020
       img: /assets/img/cv/samsung.jpg
       description:
       - Started a joint research project between IT University of Copenhagen and Samsung Research.
