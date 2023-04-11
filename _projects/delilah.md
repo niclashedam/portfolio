@@ -12,4 +12,4 @@ The development of computational storage processors like Delilah has revolutioni
 
 As a result of my research, I am looking forward to publishing a series of articles on Delilah in 2023 and 2024, coinciding with the release of NVMe TP 4091.
 
-You can study the Delilah repositories on [GitHub](https://github.com/delilah-csp), where I've released all the Delilah repositories under Apache 2.0. Delilah is part of a DAPHNE, which is funded by the [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/) under [grant agreement Nº957407](https://cordis.europa.eu/project/id/957407).
+You can study the Delilah repositories on [GitHub](https://github.com/delilah-csp), where I've released all the Delilah repositories under Apache 2.0. Delilah is part of a [DAPHNE](/projects/daphne/), which is funded by the [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/) under [grant agreement Nº957407](https://cordis.europa.eu/project/id/957407).
