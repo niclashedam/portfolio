@@ -2,7 +2,7 @@
 layout: page
 title: Delilah
 description: A Computational Storage Processor utilising eBPF developed at ITU.
-img: assets/img/delilah.jpg
+img: assets/img/delilah.png
 importance: 1
 category: work
 ---
