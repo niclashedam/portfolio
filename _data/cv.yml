@@ -3,10 +3,16 @@
   contents:
     - name: Full Name
       value: Niclas Hedam
+    - name: Title
+      value: PhD Fellow
     - name: Date of Birth
       value: 22nd November 1995
     - name: Languages
       value: English and Danish (Limited Swedish, Norwegian and French)
+    - name: Address
+      value: 🇩🇰 Copenhagen, Denmark
+    - name: Email
+      value: nhed@itu.dk
 
 - title: Education
   type: time_table
