@@ -28,7 +28,10 @@
       year: 2023
       img: /assets/img/cv/tud.jpg
       description:
-        - Experimentation with Delilah in the context of TU Dresden's research.
+        - title: Experimentation with Delilah in the context of TU Dresden's research.
+          contents:
+            - Implementation and evaluation of specific Star Schema Benchmark (SSB) queries on Delilah.
+            - Exploration of various optimisation techniques for Delilah, including loop-unrolling, parallelisation, JIT compilation, and more.
     - title: Master of Science, Computer Science, specialisation in Information Security
       institution: IT University of Copenhagen
       year: 2019 - 2022
