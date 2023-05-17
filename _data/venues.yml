@@ -1,7 +1,11 @@
 "CIDR":
-  url: https://cidrdb.org/cidrdb/
+  url: https://cidrdb.org/
   color: "#276749"
 
 "ADMS":
   url: https://www.adms-conf.org/
   color: "#2c5282"
+
+"DaMoN":
+  url: https://sites.google.com/view/damon2023/
+  color: "#e1ba7b"
