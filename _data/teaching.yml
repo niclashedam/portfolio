@@ -7,6 +7,10 @@
       role: Teacher
       students: 156
       description:
+        - Responsible for all teaching assistants.
+        - Responsible for grading the written exam, along-side the other teacher.
+        - Responsible for the execution of exercises.
+        - "Responsible for lectures on 'Kernel Processes', 'Virtual Memory/Dynamic Memory' and 'I/O: Files & Sockets.'"
     - title: Operating Systems and C
       institution: IT University of Copenhagen
       year: 2022
