@@ -5,12 +5,18 @@
       institution: IT University of Copenhagen
       year: 2023
       role: Teacher
-      students: 156
+      students: 165
       description:
         - Responsible for all teaching assistants.
         - Responsible for grading the written exam, along-side the other teacher.
         - Responsible for the execution of exercises.
-        - "Responsible for lectures on 'Kernel Processes', 'Virtual Memory/Dynamic Memory' and 'I/O: Files & Sockets.'"
+        - title: Responsible for lectures on
+          contents:
+            - "Caching"
+            - "Process"
+            - "Virtual Memory / Dynamic Memory"
+            - "I/O: Files & Sockets"
+            - "Linux"
     - title: Operating Systems and C
       institution: IT University of Copenhagen
       year: 2022
@@ -20,7 +26,10 @@
         - Responsible for all teaching assistants.
         - Responsible for designing the written exam.
         - Responsible for the execution of exercises.
-        - Responsible for lectures on Processes and Communication.
+        - title: Responsible for lectures on
+          contents:
+            - Process
+            - Communication.
         - title: Student Satisfaction Ratings
           contents:
             - 5.16 / 6.00 (The teacher's teaching aided my learning.)
