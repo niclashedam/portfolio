@@ -19,8 +19,8 @@
             - "Linux"
         - title: Student Satisfaction Ratings
           contents:
-            - 4.54 / 6.00 (The teacher's teaching aided my learning.)
-            - 4.25 / 6.00 (The teacher contributed to an inclusive learning environment.)
+            - "The teacher's teaching aided my learning: 4.54 / 6.00 [avg = 4.20, n = 2]"
+            - "The teacher contributed to an inclusive learning environment: 4.25 / 6.00 [avg = 4.18, n = 2]"
             - Note that the student satisfaction may have been impacted by clerical errors by the study administration.
     - title: Computer Systems Performance
     - title: Operating Systems and C
@@ -38,8 +38,8 @@
             - Communication
         - title: Student Satisfaction Ratings
           contents:
-            - 5.16 / 6.00 (The teacher's teaching aided my learning.)
-            - 5.27 / 6.00 (The teacher contributed to an inclusive learning environment.)
+            - "The teacher's teaching aided my learning: 5.16 / 6.00 [avg = 4.96, n = 2]"
+            - "The teacher contributed to an inclusive learning environment: 5.27 / 6.00 [avg = 5.19, n = 2]"
     - title: Computer Systems Performance
       institution: IT University of Copenhagen
       year: 2021
@@ -50,8 +50,8 @@
         - Responsible for lectures on eBPF.
         - title: Student Satisfaction Ratings
           contents:
-            - 5.33 / 6.00 (The teacher's teaching aided my learning.)
-            - 5.00 / 6.00 (The teacher contributed to an inclusive learning environment.)
+            - "The teacher's teaching aided my learning: 5.00 / 6.00 [avg = 5.00, n = 3]"
+            - "The teacher contributed to an inclusive learning environment: 5.00 / 6.00 [avg = 5.00, n = 3]"
     - title: Operating Systems and C
       institution: IT University of Copenhagen
       year: 2020
@@ -63,6 +63,6 @@
         - Responsible link between the lecturer and students during the Zoom sessions.
         - title: Student Satisfaction Ratings
           contents:
-            - 4.23 / 6.00 (The teacher's teaching aided my learning.)
-            - 4.31 / 6.00 (The teacher contributed to an inclusive learning environment.)
+            - "The teacher's teaching aided my learning: 4.23 / 6.00 [avg = 4.30, n = 2]"
+            - "The teacher contributed to an inclusive learning environment: 4.31 / 6.00 [avg = 4.19, n = 2]"
             - Note that the student satisfaction may have been impacted by the pandemic, and the effects of rapdidly changing circumstances.
