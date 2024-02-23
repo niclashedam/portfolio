@@ -17,6 +17,12 @@
             - "Virtual Memory / Dynamic Memory"
             - "I/O: Files & Sockets"
             - "Linux"
+        - title: Student Satisfaction Ratings
+          contents:
+            - 4.54 / 6.00 (The teacher's teaching aided my learning.)
+            - 4.25 / 6.00 (The teacher contributed to an inclusive learning environment.)
+            - Note that the student satisfaction may have been impacted by clerical errors by the study administration.
+    - title: Computer Systems Performance
     - title: Operating Systems and C
       institution: IT University of Copenhagen
       year: 2022
@@ -59,4 +65,4 @@
           contents:
             - 4.23 / 6.00 (The teacher's teaching aided my learning.)
             - 4.31 / 6.00 (The teacher contributed to an inclusive learning environment.)
-            - Note that the student satisfaction was impacted by the pandemic, and the effects of rapdidly changing circumstances.
+            - Note that the student satisfaction may have been impacted by the pandemic, and the effects of rapdidly changing circumstances.
