@@ -24,6 +24,6 @@ I have helped various clients from different industries to optimize their data s
 
 ### how to contact me
 
-If you are interested in my consultancy services, please e-mail me at [niclas@hed.am](mailto:niclas@hed.am). I am happy to discuss your needs and goals and provide you with a quote based on the scope and complexity of the project. My fees are negotiable and transparent, and I always strive to deliver high-quality and timely solutions.
+If you are interested in my consultancy services, please e-mail me at [website-75184@sl.hed.am](mailto:website-75184@sl.hed.am). I am happy to discuss your needs and goals and provide you with a quote based on the scope and complexity of the project. My fees are negotiable and transparent, and I always strive to deliver high-quality and timely solutions.
 
 Thank you for considering my services, and I look forward to hearing from you!
